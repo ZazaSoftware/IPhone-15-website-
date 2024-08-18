@@ -15,7 +15,7 @@
 
   <h3 align="center">Iphone 15 Website</h3>
 
-  
+    <div align="center">
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -85,6 +85,8 @@ npm install
 ```bash
 npm run dev
 ```
+
+</div>
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
